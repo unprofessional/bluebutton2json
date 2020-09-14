@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <user>
+        mixedcontent...
+        <name>septian</name>
+        <username>septian1984</username>
+        <password>1234</password>
+        <status>active</status> 
+    </user>
+    <user>
+        <name>septian2</name>
+        <username>septian1985</username>
+        <password>12345</password>
+        <status>active</status> 
+    </user>
+</root>
